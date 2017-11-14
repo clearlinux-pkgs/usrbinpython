@@ -1,6 +1,6 @@
 Name     : usrbinpython
 Version  : 1
-Release  : 4
+Release  : 5
 URL      : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-1.tar.gz
 Source0  : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-1.tar.gz
 Summary  : No detailed summary available
