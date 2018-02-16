@@ -14,7 +14,7 @@ No detailed description available
 %package bin
 Summary: bin components for the usrbinpython package.
 Group: Binaries
-Requires: python-core
+Requires: python3-core
 
 %description bin
 bin components for the usrbinpython package.
