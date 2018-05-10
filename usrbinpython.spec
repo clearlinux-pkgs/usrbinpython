@@ -1,6 +1,6 @@
 Name     : usrbinpython
 Version  : 2
-Release  : 8
+Release  : 9
 URL      : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-2.tar.gz
 Source0  : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-2.tar.gz
 Summary  : No detailed summary available
