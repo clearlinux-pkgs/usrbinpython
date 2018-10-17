@@ -1,8 +1,8 @@
 Name     : usrbinpython
-Version  : 2
+Version  : 3
 Release  : 10
-URL      : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-2.tar.gz
-Source0  : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-2.tar.gz
+URL      : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-3.tar.gz
+Source0  : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-3.tar.gz
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
@@ -21,7 +21,7 @@ bin components for the usrbinpython package.
 
 
 %prep
-%setup -q -n usrbinpython-2
+%setup -q -n usrbinpython-3
 
 %build
 export http_proxy=http://127.0.0.1:9/
