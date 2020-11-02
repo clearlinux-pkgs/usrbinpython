@@ -1,6 +1,6 @@
 Name     : usrbinpython
 Version  : 3
-Release  : 12
+Release  : 13
 URL      : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-3.tar.gz
 Source0  : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-3.tar.gz
 Summary  : No detailed summary available
@@ -27,13 +27,13 @@ bin components for the usrbinpython package.
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
-export LANG=C
+export LANG=C.UTF-8
 export SOURCE_DATE_EPOCH=1506873880
 %autogen --disable-static
 make V=1  %{?_smp_mflags}
 
 %check
-export LANG=C
+export LANG=C.UTF-8
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
