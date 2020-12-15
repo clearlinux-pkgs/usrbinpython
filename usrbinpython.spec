@@ -1,6 +1,6 @@
 Name     : usrbinpython
 Version  : 3
-Release  : 15
+Release  : 16
 URL      : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-3.tar.gz
 Source0  : http://localhost/cgit/projects/usrbinpython/snapshot/usrbinpython-3.tar.gz
 Summary  : No detailed summary available
